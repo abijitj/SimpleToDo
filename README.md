@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Note, that I had to use my own android phone for the demonstration because my emulator was not working. I asked for help at the Pre-Work Support Workspace in Slack, at the end of which, they suggested that I simply use my own phone. 
 <img src='GIFSubmission.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
